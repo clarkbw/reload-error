@@ -1,0 +1,12 @@
+{
+  "title": "Reload Error Page",
+  "name": "reload-error",
+  "version": "0.0.1",
+  "description": "Auto-reloads the error page when reconnected to the network",
+  "main": "index.js",
+  "author": "Bryan Clark",
+  "engines": {
+    "firefox": ">=38.0a1"
+  },
+  "license": "ISC"
+}
